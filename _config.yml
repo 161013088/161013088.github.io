@@ -1,15 +1,15 @@
 # Site settings
-name: 小可嗒嗒的博客
+name: 谢冠岚的学习网站
 email: maoxiaoke@outlook.com
 author: M/J
 url: http://xiaokedada.com
 resume_site: http://xiaokedada.com/me/
 github: https://github.com/maoxiaoke/
 baseurl: ""  #根目录
-description: 假如生活欺骗了你，不要悲伤，不要哭泣。
-motto: 我们笑着说再见，却深知再见遥遥无期。
-#motto: 如果生活欺骗了你，不要悲伤，不要哭泣。
-banner: 我想带你去看绚丽的山峦，去看秀丽的溪谷，这份心情，人类是如何称呼的呢。
+description: 唯有保持认真执着的赤子之心，方能走得更远。
+motto: 学海无涯
+#motto: 学海无涯
+banner: 网络世界。
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 excerpt_separator:  '<!-- more -->' #文章摘要
