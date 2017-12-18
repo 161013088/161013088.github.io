@@ -8,7 +8,7 @@ tag: Jekyll
 * content
 {:toc}
 欲用 `GitHub` 空間，可先自裝 [GitHub Desktop][GitHub_Desktop] 這開發環境工具。
-
+<!-- more -->
 ## 怎样裝 GitHub Desktop？
 
 現在2017年年底的情境下，在中國的網絡環境裝 `GitHub Desktop`，有時會考驗著所在地區的網路速度和安裝人的人品。
