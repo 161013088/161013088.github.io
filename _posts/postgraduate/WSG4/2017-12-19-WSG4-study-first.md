@@ -3,9 +3,7 @@ layout: post
 title: "学习笔记__week15"
 date: 2017-12-19 11:00:00 +0800 
 categories: 研究生涯
-tags: 
- - WSG4
-
+tags: WSG4
 ---
 * content
 {:toc}
