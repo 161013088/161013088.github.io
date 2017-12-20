@@ -34,6 +34,7 @@ abbr {text-decoration: none;}
 <li><a href="http://www.jekyll-plugins.com/" target="_blank">Jekyll plugins库</a></li>
 <li><a href="http://blog.csdn.net/maoxunxing/article/details/40479753" target="_blank">jekyll翻译文档</a></li>
 <li><a href="https://jekyllrb.com/docs/plugins/" target="_blank">了解jekyll plugins</a></li>
+<li><a href="http://jekyllthemes.org/" target="_blank">Jekyll Theme</a></li>
 </ol>
 <hr><h4 class="btn btn-info btn-lg">CDN</h4><hr>
 <ol class="rectangle-list">
