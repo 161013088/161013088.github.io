@@ -32,9 +32,8 @@ abbr {text-decoration: none;}
 <ol class="rounded-list">
 <li><a href="http://baixin.io/2016/10/jekyll_tutorials1/" target="_blank">搭建个人博客</a></li>
 <li><a href="http://www.jekyll-plugins.com/" target="_blank">Jekyll plugins库</a></li>
-<li><a href="http://blog.csdn.net/maoxunxing/article/details/40479753" target="_blank">翻译文档</a></li>
+<li><a href="http://blog.csdn.net/maoxunxing/article/details/40479753" target="_blank">jekyll翻译文档</a></li>
 <li><a href="https://jekyllrb.com/docs/plugins/" target="_blank">了解jekyll plugins</a></li>
-<li><a href="https://git-scm.com/docs" target="_blank">Git Reference</a></li>
 </ol>
 <hr><h4 class="btn btn-info btn-lg">CDN</h4><hr>
 <ol class="rectangle-list">
