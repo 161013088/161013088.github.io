@@ -15,11 +15,7 @@
 + 打赏我: 提供donation
 + 关于我: 个人CV
 
-### 文章页
 
-![文章页](https://github.com/maoxiaoke/maoxiaoke.github.io/blob/master/styles/images/blog/page.png?raw=true)
-
----
 
 ## 功能简介
 
