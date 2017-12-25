@@ -18,7 +18,7 @@ Mixed Content: The page at 'https://domain.com/w/a?id=074ac65d-70db-422d-a6d6-a5
 
 很多运营对 https没有技术概念，在填入的数据中不免出现http的资源，出现疏忽和漏洞也是不可避免的。
 
-### 解决办法一：CSP设置upgrade-insecure-requests
+### 办法一：CSP设置upgrade-insecure-requests
 W3C工作组考虑到了我们升级HTTPS的艰难，在2015年4月份就出了一个Upgrade Insecure Requests 的草案（http://www.w3.org/TR/mixed-content/），
 他的作用就是让浏览器自动升级请求。在我们服务器的响应头中加入：
 
