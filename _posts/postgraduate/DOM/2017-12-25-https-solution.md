@@ -3,7 +3,7 @@ layout: post
 title: "解决This content should also be served over HTTPS"
 date: 2017-12-25 23:00:00 +0800 
 categories: 研究生涯
-tag: DOM
+tag: https
 ---
 * content
 {:toc}
@@ -31,8 +31,7 @@ server {
 ```
 我们的页面是 https 的，而这个页面中包含了大量的 http 资源（图片、iframe等），页面一旦发现存在上述响应头，会在加载 http 资源时自动替换成 https 请求。
 
-### 方法二:
-页面中加入 meta 头：
+### 方法二:页面中加入 meta 头：
 
 
 ```
