@@ -5,7 +5,7 @@
 
 ### 首页
 
-![首页](https://github.com/maoxiaoke/maoxiaoke.github.io/blob/master/styles/images/blog/blog.png?raw=true)
+
 
 + 首页: 博客首页
 + 博文分类: 按照categories对文章进行分类
